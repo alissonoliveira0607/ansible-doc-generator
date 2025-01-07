@@ -175,9 +175,9 @@ docker run seu-usuario/ansible-doc-generator:latest --help
 
 ```
 ansible-doc-generator/
-├── ansible_doc_generator.py    # Script principal
-├── requirements.txt           # Dependências do projeto
-├── README.md                 # Este arquivo
+├── docgen.py   
+├── requirements.txt           
+├── README.md             
 ```
 
 ## Licença
