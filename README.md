@@ -186,7 +186,7 @@ Este projeto está licenciado sob a GPLv3.
 
 ## Autor
 
-Seu Nome - [@Alisson Oliveira](https://github.com/alissonoliveira0607) - alissonoliveira0607@gmail.com
+[@Alisson Oliveira](https://github.com/alissonoliveira0607) - alissonoliveira0607@gmail.com
 
 
 ---
